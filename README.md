@@ -31,6 +31,7 @@ Usuage Instructions    :    To run this project ...
                             Profile Updations :
                             Supplier can check and update their details dynamically in the website itself.
 
-Technologies Used   :     HTML,CSS,npm node js
+Technologies Used   :     HTML,CSS
+Code Editor          :    Visual studio code
 
   
