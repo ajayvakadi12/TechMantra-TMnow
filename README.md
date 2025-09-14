@@ -13,7 +13,7 @@ Installation instructions   :   1.vs code
 Usuage Instructions    :    To run this project ...
                             Login :
                             first run the login.html,
-                            open Login.Html in your Web Browser.
+                            open Login.Html page in your Web Browser.
                             then you will be directed to the login page.
 
                             Registration : 
@@ -31,7 +31,7 @@ Usuage Instructions    :    To run this project ...
                             Profile Updations :
                             Supplier can check and update their details dynamically in the website itself.
 
-Technologies Used   :     HTML,CSS
+Technologies Used   :     HTML,CSS                                                                                                                                                                             
 Code Editor          :    Visual studio code
 
   
