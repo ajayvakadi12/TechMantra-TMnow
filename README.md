@@ -11,8 +11,9 @@ Installation instructions   :   1.vs code
 
 
 Usuage Instructions    :    To run this project ...
-                            Login:
+                            Login :
                             first run the login.html,
+                            open Login.Html in your Web Browser.
                             then you will be directed to the login page.
 
                             Registration : 
