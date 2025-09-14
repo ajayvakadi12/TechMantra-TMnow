@@ -1,0 +1,22 @@
+#tmlogo
+{
+  width: 85px;
+  height: 50px;
+  background-image: url(tmlogo2.png);
+  background-position: 0 0;
+
+}
+#profile 
+{
+width: 85px;
+  height: 50px;
+  background-image: url(profile.gif);
+  background-position: 0 0;
+  margin-left: 1300px;
+  
+}
+a:hover
+{
+    background-color: white;
+    font-size: 25px;
+}
